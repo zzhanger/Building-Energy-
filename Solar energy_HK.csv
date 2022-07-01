@@ -1,0 +1,34 @@
+﻿PVWatts: Monthly PV Performance Data;;;;
+Parameter;Input;;;
+Requested Location:;Hong kong;;;
+Location:;Lat, Lon: 22.25, 114.18;;;
+Lat (deg N):;22.25;;;
+Long (deg E):;114.18;;;
+Elev (m):;149;;;
+DC System Size (kW):;4;;;
+Module Type:;Standard;;;
+Array Type:;Fixed (roof mount);;;
+Array Tilt (deg):;20;;;
+Array Azimuth (deg):;180;;;
+System Losses:;14.08;;;
+Invert Efficiency:;96;;;
+DC to AC Size Ratio:;1.2;;;
+Average Cost of Electricity Purchased from Utility ($/kWh):;0.149;;;
+Capacity Factor (%);16;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Month;AC System Output (kWh);Solar Radiation (kWh/m^2/day);Plane of Array Irradiance (W/m^2);DC array Output (kWh)
+1;330.6099243;3.41793227;105.9559021;346.9143677
+2;335.5112305;3.85723686;108.0026321;351.1106873
+3;481.6786499;5.0843811;157.6158142;502.7879944
+4;414.4126587;4.60942125;138.2826386;434.0131836
+5;423.5293579;4.56825924;141.6160431;443.4133606
+6;445.3299255;5.04804802;151.4414368;465.6840515
+7;508.7261658;5.64130449;174.8804321;531.2154541
+8;492.314148;5.46038246;169.2718506;514.2167358
+9;458.1531677;5.17807245;155.3421783;478.5585022
+10;468.6652832;5.00094986;155.0294495;489.5825806
+11;342.5960693;3.73698092;112.1094284;358.7843323
+12;409.5422669;4.22112656;130.8549194;428.1104736

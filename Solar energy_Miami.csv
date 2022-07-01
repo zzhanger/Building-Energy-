@@ -1,0 +1,33 @@
+﻿PVWatts: Monthly PV Performance Data;;;;
+Parameter;Input;;;
+Requested Location:;miami;;;
+Location:;Lat, Lon: 25.77, -80.18;;;
+Lat (deg N):;25.77;;;
+Long (deg W):;80.18;;;
+Elev (m):;0;;;
+DC System Size (kW):;4;;;
+Module Type:;Standard;;;
+Array Type:;Fixed (open rack);;;
+Array Tilt (deg):;20;;;
+Array Azimuth (deg):;180;;;
+System Losses:;14.08;;;
+Invert Efficiency:;96;;;
+DC to AC Size Ratio:;1.2;;;
+Average Cost of Electricity Purchased from Utility ($/kWh):;0.087;;;
+Capacity Factor (%);"16.0	";;;
+;;;;
+;;;;
+;;;;
+Month;AC System Output (kWh);Solar Radiation (kWh/m^2/day);Plane of Array Irradiance (W/m^2);DC array Output (kWh)
+1;473.8372498;4.98224926;154.4497223;494.4351502
+2;476.2624512;5.55246258;155.4689484;496.9580078
+3;598.9526367;6.34183216;196.5968018;624.0571289
+4;601.779541;6.66775799;200.0327454;627.8013916
+5;599.0668335;6.58040237;203.9924774;624.8740845
+6;515.5134277;5.86208344;175.8625031;538.0286865
+7;556.9833374;6.16760397;191.1957245;581.2037964
+8;563.5913086;6.29255819;195.0693054;588.0631714
+9;481.539917;5.46144199;163.8432617;502.689148
+10;522.0809326;5.59483767;173.4399719;544.6930542
+11;463.3051453;5.0838871;152.5166168;482.6651306
+12;442.7845764;4.65999937;144.4599762;461.7076111

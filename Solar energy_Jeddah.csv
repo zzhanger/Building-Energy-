@@ -1,0 +1,33 @@
+﻿PVWatts: Monthly PV Performance Data;;;;
+Parameter;Input;;;
+Requested Location:;Jeddah;;;
+Location:;ASWAN, EGYPT;;;
+Lat (deg N):;23.97;;;
+Long (deg E):;32.78;;;
+Elev (m):;194;;;
+DC System Size (kW):;4;;;
+Module Type:;Standard;;;
+Array Type:;Fixed (open rack);;;
+Array Tilt (deg):;20;;;
+Array Azimuth (deg):;180;;;
+System Losses:;14.08;;;
+Invert Efficiency:;96;;;
+DC to AC Size Ratio:;1.2;;;
+Average Cost of Electricity Purchased from Utility ($/kWh):;0.037;;;
+Capacity Factor (%);"16	";;;
+;;;;
+;;;;
+;;;;
+Month;AC System Output (kWh);Solar Radiation (kWh/m^2/day);Plane of Array Irradiance (W/m^2);DC array Output (kWh)
+1;558.1115112;5.71495628;177.1636505;582.1785889
+2;560.817749;6.40972471;179.47229;584.9346314
+3;666.1278687;7.06579971;219.0397949;694.5581055
+4;653.1205444;7.4685216;224.0556488;681.0669556
+5;634.1791382;7.09121132;219.8275452;661.6665649
+6;637.4546509;7.44902611;223.4707794;665.0383301
+7;657.2322998;7.43848085;230.5929108;685.7279053
+8;661.1254883;7.51281071;232.8971252;689.6281738
+9;631.7765503;7.28762341;218.6287079;658.8060913
+10;602.6720581;6.68203831;207.1431885;628.2730713
+11;549.9923096;6.05259848;181.5779572;573.2564087
+12;534.112854;5.47260475;169.6507416;556.963562
