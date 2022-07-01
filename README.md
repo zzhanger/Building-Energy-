@@ -1,4 +1,4 @@
-# Building-Energy-
+Energy use in buildings
 Estimating building energy consumption is critical for sustainable urban planning. The first step to estimate building energy consumption is to determine the Gross Floor Area (GFA). In this project, the following processes were conducted to get GFA of the desired city:
 * Obtain the building footprint data from OpenStreetMap
 * Obtain the Digital Surface Model (DSM) from OpenTopography (including buildings and infrastructures)
